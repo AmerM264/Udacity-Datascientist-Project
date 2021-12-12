@@ -33,4 +33,6 @@ We will filter only Females from the Gender columns to answer this question
 ![Female_%_each_Country](Female_per_country.JPG)  
 
 Conclusion
-Fom the above result, we can conclude that the top three countries: (United States, India, United Kingdom) have the highest response rate from females which might indicate that these countries are better suited for females to work in
+Fom the above result, we can conclude that the top three countries: (United States, India, United Kingdom) have the highest response rate from females which might indicate that these countries are better suited for females to work in  
+
+To see more about this analysis, see the link to my Github available [here](https://github.com/AmerM264/Udacity-Datascientist-Project/blob/main/Stack_Overflow_Analysis.ipynb).
